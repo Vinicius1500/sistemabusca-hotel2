@@ -1,0 +1,8 @@
+com\mycompany\server\model\Usuario.class
+com\mycompany\server\rest\UsuarioResource.class
+com\mycompany\server\model\Cidade.class
+com\mycompany\server\dao\JpaDAO.class
+com\mycompany\server\config\RestConfig.class
+com\mycompany\server\dao\DAO.class
+com\mycompany\server\model\Cadastro.class
+com\mycompany\server\config\Producers.class
